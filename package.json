@@ -1,0 +1,51 @@
+{
+  "name": "Funk",
+  "version": "1.6.7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cf",
+  "license": "ISC",
+  "dependencies": {
+    "anti-spam": "^0.2.7",
+    "antispam-discord": "^2.3.0",
+    "canvas-constructor": "^3.1.0",
+    "chalk": "^2.4.2",
+    "cows": "^2.1.0",
+    "dblapi.js": "^2.3.0",
+    "dependencies": "0.0.1",
+    "discord.js": "^11.5.1",
+    "djs-commands": "^1.2.2",
+    "enmap": "^5.1.0",
+    "file-system": "^2.2.2",
+    "firebase": "^6.3.3",
+    "firebase-admin": "^8.3.0",
+    "fortnite": "^4.3.2",
+    "fs": "0.0.1-security",
+    "giphy-api": "^2.0.1",
+    "git": "^0.1.5",
+    "moment": "^2.24.0",
+    "mongoose": "^5.6.8",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.0",
+    "node-gyp": "^5.0.3",
+    "node-hill": "^4.3.0",
+    "node-pre-gyp": "^0.13.0",
+    "path": "^0.12.7",
+    "peer": "^0.2.10",
+    "profanities": "^2.11.0",
+    "random-number": "0.0.9",
+    "random-puppy": "^1.1.0",
+    "request": "^2.88.0",
+    "snekfetch": "^4.0.4",
+    "superagent": "^5.1.0",
+    "themer": "^3.1.6",
+    "xml2js": "^0.4.19",
+    "ytdl-core": "^0.29.3"
+  },
+  "devDependencies": {
+    "eslint": "^6.1.0"
+  },
+  "description": ""
+}
