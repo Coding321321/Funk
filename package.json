@@ -20,7 +20,7 @@
     "enmap": "^5.1.0",
     "file-system": "^2.2.2",
     "firebase": "^6.3.3",
-    "firebase-admin": "^8.3.0",
+    "firebase-admin": "^11.4.1",
     "fortnite": "^4.3.2",
     "fs": "0.0.1-security",
     "giphy-api": "^2.0.1",
